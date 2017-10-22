@@ -39,7 +39,19 @@
         <entry file="file://$PROJECT_DIR$/lesson5_MongDB.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="14" />
+              <selected id="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autos.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="156" column="14" lean-forward="true" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,8 +122,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="16" />
+    <option name="x" value="-5" />
+    <option name="y" value="6" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -131,6 +143,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,7 +155,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,23 +291,37 @@
       <option name="project" value="LOCAL" />
       <updated>1508412666987</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Revert &quot;10.20 day&quot;&#10;&#10;This reverts commit 4c5c549">
+      <created>1508663368132</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1508663368132</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Revert &quot;Revert &quot;10.20 day&quot;&quot;&#10;&#10;This reverts commit d6e1d01">
+      <created>1508663387348</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1508663387348</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="16" width="1346" height="688" extended-state="0" />
+    <frame x="-5" y="6" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25714287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26127526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.064124785" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08122744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -353,7 +379,9 @@
     <MESSAGE value="Revert &quot;Revert &quot;10.17 night&quot;&quot;&#10;&#10;This reverts commit cdbf6b3" />
     <MESSAGE value="10.19 day" />
     <MESSAGE value="Revert &quot;Revert &quot;10.19 day&quot;&quot;&#10;&#10;This reverts commit ffaa059" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Revert &quot;10.19 day&quot;&quot;&#10;&#10;This reverts commit ffaa059" />
+    <MESSAGE value="Revert &quot;10.20 day&quot;&#10;&#10;This reverts commit 4c5c549" />
+    <MESSAGE value="Revert &quot;Revert &quot;10.20 day&quot;&quot;&#10;&#10;This reverts commit d6e1d01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Revert &quot;10.20 day&quot;&quot;&#10;&#10;This reverts commit d6e1d01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -567,13 +595,6 @@
     <entry file="file://$PROJECT_DIR$/temp.py" />
     <entry file="file://$PROJECT_DIR$/temp" />
     <entry file="file://$PROJECT_DIR$/lesson5_MongDB.py" />
-    <entry file="file://$PROJECT_DIR$/cities.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-2869">
-          <caret line="29" column="461" lean-forward="false" selection-start-line="29" selection-start-column="461" selection-end-line="29" selection-end-column="461" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schema.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -631,13 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/autos.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1307758">
@@ -653,10 +667,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/autos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="156" column="14" lean-forward="true" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cities.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-13479">
+          <caret line="29" column="461" lean-forward="false" selection-start-line="29" selection-start-column="461" selection-end-line="29" selection-end-column="461" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson5_MongDB.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="14" />
+          <selected id="15" />
         </state>
       </provider>
     </entry>
